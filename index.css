@@ -1,0 +1,123 @@
+.gameScore {
+    background-color: #e5005c;
+}
+
+.headerCenter {
+    width: 90%;
+
+    margin: auto;
+}
+
+.pinOnOff {
+    margin-top: 10px;
+    right: 0;
+    background: #95022E;
+    color: #e5005c;
+    border-radius: 25px;
+    width: 57px;
+    border: solid 2px #fff;
+    vertical-align: ;
+}
+
+.pinOnOff span {
+    color: white;
+    font-weight: bold;
+    float: left;
+    width: 26px;
+    display: block;
+    margin: -1px 0 0 2px;
+    font-size: 9pt;
+    margin-top: 3px;
+}
+
+.pinOnOff img {
+    margin: -3px 0 0px 0;
+}
+
+.time {
+    color: white;
+}
+
+.allScore {
+    font-weight: bold;
+    font-size: 11px;
+    margin-top: 10px;
+    right: 0;
+    background: #95022E;
+    color: #e5005c;
+    border-radius: 25px;
+    width: fit-content;
+    border: solid 2px #fff;
+    color: #fff;
+    padding: 3px;
+}
+
+.gameHeading {
+    width: 100%;
+    color: #fff;
+    justify-content: end;
+}
+
+.gameconact {
+    width: 100%;
+    color: #fff;
+    justify-content: end;
+
+}
+
+.container {
+    width: 70% !important;
+}
+
+.lotototo {
+    border: 1px solid black;
+    height: 100px;
+    margin-left: 3px !important;
+    margin-right: 3px !important;
+}
+
+.firststory {
+    background-image: url(https://www.sport5.co.il/Sip_Storage/FILES/2/size648x534/1363112.jpg);
+    height: 534px;
+
+    text-align: right;
+    align-content: end;
+
+}
+
+.storyheader {
+    color: #fff;
+    width: fit-content;
+    height: fit-content;
+    text-align: right;
+
+}
+
+.storycontect {
+    color: #fff;
+    width: fit-content;
+    height: fit-content;
+
+}
+
+.storyback {
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.45) .01%, #000 100%);
+    margin-left: 0px !important;
+}
+
+.col img {
+    width: 100%;
+}
+ .col p{
+    text-align: right;
+    font-size: 10px;
+ }
+.smallstoryscontect {
+    text-align: right;
+    font: 22px/23px 'blender-bold', Mukta-ExtraBold, 'south web bold', Arial, sans-serif
+}
+
+.smallstorys {
+    border-bottom: 1px solid #ebebeb;
+    padding-bottom: 10px;
+}
